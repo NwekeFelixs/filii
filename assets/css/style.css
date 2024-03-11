@@ -12,6 +12,9 @@
     --bg: #f8f8f8;
 }
 
+html{
+    scroll-behaviour: smooth;
+}
 
 .dark-mode {
     --black-1: #fff;
