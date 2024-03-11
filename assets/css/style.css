@@ -36,6 +36,14 @@
     list-style: none;
 }
 
+::-webkit-scrollbar{
+    display: none;
+}
+
+::-webkit-scrollbar-thumb{
+    display: none;
+}
+
 
 body {
     font-family:  "Poppins", sans-serif;
